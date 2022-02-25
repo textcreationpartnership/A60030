@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account how the kingdom of Denmark became hereditary and absolute, by a difference betwixt the Lords and Commons Published as a warning to other nations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60030</idno>
+            <idno type="STC">Wing S3531A</idno>
+            <idno type="STC">ESTC R203712</idno>
+            <idno type="EEBO-CITATION">99825280</idno>
+            <idno type="PROQUEST">99825280</idno>
+            <idno type="VID">29658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2153:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account how the kingdom of Denmark became hereditary and absolute, by a difference betwixt the Lords and Commons Published as a warning to other nations.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A. Baldwin in Warwicklane,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denmark --  History --  17th century --  Early works to 1800.</term>
+               <term>Denmark --  Politics and government --  1660-1814 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29658:1" rendition="simple:additions"/>
+            <head>A ſhort Account how the Kingdom of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> became Hereditary and Abſolute, by a
+Difference betwixt the Lords and Commons.</head>
+            <head type="sub">Publiſhed as a Warning to other Nations.</head>
+            <epigraph>
+               <q>Felix quem faciunt aliena pericula cautum.</q>
+            </epigraph>
+            <p>AFTER the Concluſion of the Peace between the two Nor<g ref="char:EOLhyphen"/>thern Crowns <hi>Anno</hi> 1660. ſome
+conſiderable care and time was neceſſary to redreſs the Diſorders occaſioned by ſo
+terrible a War. <hi>Denmark</hi> had been moſt violently ſhaken; and altho the Fury of the
+Tem<g ref="char:EOLhyphen"/>peſt was over, the Agitation cauſed by it ſtill continued: The Army was not yet
+disbanded, nor could be for want of Mony to diſcharge its Arrears; this cauſed frequent
+Inſolencies in the Soldiers, with a further Oppreſſion of the Burgers and poor Country
+People, who had been in a manner already ruined by the Miſeries attending the War. The Nobility,
+tho Lords and Maſters, were full of Diſcon<g ref="char:EOLhyphen"/>tents, and the Clergy not in the condition they
+wiſhed.</p>
+            <p>To redreſs all which Grievances, and reduce Affairs into ſome Order, by pro<g ref="char:EOLhyphen"/>curing Money for
+the Payment and Diſ<g ref="char:EOLhyphen"/>banding of the Army, the King thought fit to appoint a Meeting of the Three
+Eſtates at <hi>Copenhagen, viz.</hi> the Nobility, Commonalty, and Clergy; which accord<g ref="char:EOLhyphen"/>ingly
+followed about the beginning of <hi>October.</hi> After ſome few days Seſſion (during which
+the Nobility, according to their uſual practice, debated how the Sums of Money requiſite might
+with the greateſt eaſe and conveniency be levied upon the Commons, without the leaſt
+intention of bearing any proportionable ſhare them<g ref="char:EOLhyphen"/>ſelves) ſeveral Diſputes aroſe, and
+ma<g ref="char:EOLhyphen"/>ny ſharp Expreſſions paſſed between them and the Commons; on the one hand the Nobility
+were for maintaining their antient Prerogative of paying nothing by way of Tax, but only by
+voluntary Contribution; and ſhewed themſelves too ſtiff at a time when the Country was
+exhauſted, and moſt of the remaining Riches lodged in their hands: They ſeemed to make uſe
+of this occaſion, not only to vindicate, but even to widen and enlarge their Privileges above the
+other two Eſtates, by laying Impoſi<g ref="char:EOLhyphen"/>tions on them at pleaſure, which Weight they themſelves
+would not touch with one of their Fingers, any further than as they thought fitting. On the other
+hand, the Clergy for their late adherence to the Inte<g ref="char:EOLhyphen"/>reſt of their Country, and the Burgers for
+the vigorous Defence of their City, thought they might juſtly pretend to new Merit, and be
+conſidered at leaſt as good Subjects in a State, which they themſelves had ſo valiantly
+defended. They remem<g ref="char:EOLhyphen"/>bred the great Promiſes made them when dangerous Enterpriſes were to be
+taken in hand, and how ſucceſsfully they had exe<g ref="char:EOLhyphen"/>cuted them; thereby ſaving from a Foreign
+Yoke, not only the City of <hi>Copenhagen,</hi> but the whole Kingdom, the Royal Family, nay
+thoſe very Nobles that now dealt ſo hardly with them: They judg'd it therefore rea<g ref="char:EOLhyphen"/>ſonable,
+that the Sums of Money neceſſary
+<pb n="2" facs="tcp:29658:2"/>ſhould be levied proportionably, and that the Nobility who enjoy'd all the
+Lands, ſhould at leaſt pay their ſhare of the Taxes, ſince they had ſuffered leſs in
+the common Calamity, as well as done leſs ſo prevent the progreſs of it.</p>
+            <p>This manner of arguing was very diſ<g ref="char:EOLhyphen"/>pleaſing to the Nobles, and begat much Heat and many
+bitter Replies on both ſides: At length a principal Senator called <hi>Otto Craeg,</hi> ſtood
+up, and in great Anger told the Preſident of the City, That the Com<g ref="char:EOLhyphen"/>mons neither underſtood nor
+conſidered the Privileges of the Nobility, who at all times had been exempted from Taxes, nor the
+true Condition of themſelves, who were no other than Slaves; [the word in the <hi>Daniſh</hi>
+is <hi>unfree</hi>] ſo that their beſt way was to keep within their own Bounds, and acquieſce
+in ſuch Meaſures as antient Pra<g ref="char:EOLhyphen"/>ctice had warranted, and which they were reſolved to
+maintain. This word <hi>Slaves</hi> put all the Burgers and Clergy in diſ<g ref="char:EOLhyphen"/>order, cauſing a loud
+Murmur in the Hall; which <hi>Nanſon</hi> the Preſident of the City of <hi>Copenhagen,</hi> and
+Speaker of the Houſe of Commons, perceiving, and finding a fit oc<g ref="char:EOLhyphen"/>caſion of putting in practice
+a Deſign be<g ref="char:EOLhyphen"/>fore concerted (tho but weakly) between him and the Biſhop, in great Choler roſe
+out of his Seat, and ſwore an Oath, <hi>That the Commons were no Slaves, nor would from
+thenceforth be called ſo by the Nobility, which they ſhould ſoon prove to their coſt:</hi>
+And thereupon breaking up the Aſſembly in diſorder, and departing out of the Hall, was
+followed by all the Clergy and Burgers. The Nobles being left alone to conſult a<g ref="char:EOLhyphen"/>mong
+themſelves at their leiſure, after a little while adjourned to a private Houſe near the
+Court. In the mean time the Commons, being provoked to the higheſt degree, and reſolving to put
+their Threats in Execution, marched proceſſionally by Cou<g ref="char:EOLhyphen"/>ples, a Clergyman and a Commoner,
+from the great Hall or Parliament-Houſe to the <hi>Brewers-Hall,</hi> which was the
+convenienteſt place they could pitch upon to ſit apart from the Nobles; the Biſhop of
+<hi>Copenhagen,</hi> and the Preſident of the City leading them. It was there thought
+neceſſary to conſider ſpeedily of the moſt effectual Means to ſuppreſs the
+intolerable Pride of the No<g ref="char:EOLhyphen"/>bility; and how to mend their own Condi<g ref="char:EOLhyphen"/>tion: After many Debates they
+concluded, That they ſhould immediately wait upon the King, and offer him their Votes and
+Aſſiſtance to be abſolute Monarch of the Realm; as alſo that the Crown ſhould
+de<g ref="char:EOLhyphen"/>ſcend by Inheritance to his Family, which hitherto had gone by Election. They promiſed
+themſelves the King would have ſo grease Obligations to them for this piece of Service, that he
+would grant and con<g ref="char:EOLhyphen"/>firm ſuch Privileges as ſhould put them above the degree of Slaves. They
+knew he had hitherto been curbed by the Nobili<g ref="char:EOLhyphen"/>ty to a great meaſure; and now ſaw their own
+force, being able (ſince they had Arms in their Hands, and the concurrence of the Souldiers) to
+perform what they undertook: At the worſt, they ſuppoſed they ſhould only change many
+Maſters for one, and could better bear hardſhips from a King than from inferior Perſons: Or
+if their Caſe were not better'd, at leaſt they thought it ſome comfort to have more Company
+in it; beſides the ſatisfaction of Revenge on thoſe that had hitherto not only uſed them
+ill, but inſulted over them ſo lately. They knew the King, and had ſeen him bear with an
+admirable Patience and Conſtancy all his Calamities; were perſwaded that he was a Valiant
+Prince, who had often expoſed his Perſon for the ſake of the Publick, and therefore thought
+they could never do enough to ſhew their Gratitude; which is the uſual Temper of the People
+upon any benefit receiv'd from their Prince.</p>
+            <p>Scarce was this propoſed but it was a<g ref="char:EOLhyphen"/>greed to; and nothing but the unſeaſona<g ref="char:EOLhyphen"/>bleneſs of
+the time (it being now near Night) deferred the immediate Execution of it; but all the
+neceſſary Meaſures were taken againſt next Morning. The Clergy
+<pb n="3" facs="tcp:29658:3"/>had a further drift in this Change of Go<g ref="char:EOLhyphen"/>vernment; for having been hitherto kept
+under by the Nobility, they forecaſted to have no other Superior but the King, whoſe new
+Authority they engaged to maintain by the influence they had on the Conſciences of the People;
+expecting with reaſon the like Favour and Protection from the King, together with an increaſe
+of their Power; ſince he was in a great meaſure obliged to them for his own; and the be<g ref="char:EOLhyphen"/>nefits
+were likely to be mutual for the fu<g ref="char:EOLhyphen"/>ture, the one having the force, the other the tie of Religion
+in their Poſſeſſion. Which Contract ſubſiſts to this very day, to the great advantage
+of both ſides.</p>
+            <p>The Court all this while was not igno<g ref="char:EOLhyphen"/>rant of what paſſed; there wanted no Spies nor
+Meſſengers to give notice of the Diſ<g ref="char:EOLhyphen"/>contents of the Commons. <hi>Hanibal Seeſ<g ref="char:EOLhyphen"/>tede,</hi> a
+cunning Man, was prime Miniſter; and the Biſhop or Superintendent <hi>Swan,</hi> with
+<hi>Nanſon</hi> the Speaker of the Houſe of Commons, were his Creatures: Theſe had formerly
+in ſecret laid with him the De<g ref="char:EOLhyphen"/>ſign, which was now upon the point of diſcloſing, tho their
+hopes were hardly raiſed ſo high, as to promiſe themſelves ſuch mighty Succeſs. The
+whole Night paſſed in Brigues and Meſſages; the Com<g ref="char:EOLhyphen"/>mons Anger was to be kept up to the
+re<g ref="char:EOLhyphen"/>quiſite height, and the Reſolution they had taken the Night before not to be ſuf<g ref="char:EOLhyphen"/>fer'd to
+cool, but perſiſted in betimes next Morning. The Queen, a Woman of In<g ref="char:EOLhyphen"/>trigue and high Spirit,
+wrought ſtrongly in it by all manner of ways, whilſt the King, either through doubt of the
+Event, or ſenſe of the Diſhoneſty and Crime of the Action, in procuring after ſuch a
+man<g ref="char:EOLhyphen"/>ner the abſolute Dominion of a free Coun<g ref="char:EOLhyphen"/>try, could hardly be brought to comply with it. He
+declared that indeed he ſhould be pleaſed the Sovereignty were en<g ref="char:EOLhyphen"/>tailed on his Family,
+provided it were done by Univerſal Conſent; but to become Abſolute and Arbitrary, was neither
+his deſire, nor did he think it for the benefit of the Kingdom; that he was ſatisfied he
+ſhould not make ill uſe of ſuch an unli<g ref="char:EOLhyphen"/>mited Authority, but no body knew what Succeſſors
+he might have; that it was therefore dangerous both for them to give, and for him to receive ſuch
+a Power as might be abuſed in future times to the ut<g ref="char:EOLhyphen"/>ter ruin of the Nation. But theſe
+Re<g ref="char:EOLhyphen"/>flections, whether they were real, or only pretences, whether cauſed by the Piety or
+Weakneſs of the King, were ſoon over<g ref="char:EOLhyphen"/>ruled by the more Ambitious and Maſcu<g ref="char:EOLhyphen"/>line Spirit of the
+Queen, who deſiring him to ſit ſtill, and ſee how ſhe and her Emiſſaries would work
+for him, told him, That the Plot was well laid, and had begun to operate proſperouſly; that he
+muſt not obſtruct his own and his Families good Fortune; and in fine, ſo far prevailed on
+him, that he ſeemed with fear to conſent to, and permitted that which moſt think he very much
+deſired: Having however by this ſhew of unwillingneſs, left open to himſelf a door of
+Reconciliation with his People, in caſe the buſineſs did not ſuc<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>All this while the Nobles either had none, or but ſmall intimation of the De<g ref="char:EOLhyphen"/>ſigns of the
+Commons: they had been uſed ſo long to ſlight and tyrannize over them, that they were not now
+ſenſible of any impending danger from thence, contemning their Threats as well as their
+Perſons, and imagining they would have repented next day, and complied with all that ſhould be
+demanded of them. But the Plot was deeper laid than they ſuppoſed; for not only the prime
+Miniſter, but ſome other Members of their own Body, who had Employments depending on the Court,
+were engaged in it. This inadvertency, with the want of requiſite Courage upon occaſion,
+brought upon them the Miſchief on a ſudden; ſo that except two or three who were more than
+ordinary doubtful of what might happen, and ſlipt out of Town that Night, the reſt were
+al<g ref="char:EOLhyphen"/>together fearleſs of danger, till the very
+<pb n="4" facs="tcp:29658:4"/>inſtant that the Evil was remedileſs.</p>
+            <p>
+               <hi>Schack</hi> the Governour of the Town had been gained by the Court to favour the Deſign,
+which he performed effectually, though not with ſo ſervile an intention as others: for when the
+King, upon the firſt news of the Reſolution of the Commons, did often openly promiſe that he
+would in Gratitude and Recompence declare them all Free as ſoon as it lay in his power, by the
+Gift they were about to make him; and the People were willing to truſt the King's goodneſs, and
+to depend on the per<g ref="char:EOLhyphen"/>formance of this Promiſe, encouraged thereunto by the Clergy, who alledged
+it a thing unbeſeeming and diſhonourable to require any other Security from the King than his
+bare Word; yet <hi>Schack</hi> urged ve<g ref="char:EOLhyphen"/>hemently that the Commons ſhould inſiſt to have this
+Promiſe under the King's Hand, and make themſelves ſure of the Reward for ſo conſiderable
+a Preſent as they were going to make, whilſt they had ſo fair an opportunity in their hands.
+But all his Inſtances were in vain; they were in the giving humour, and reſolved to do it
+ge<g ref="char:EOLhyphen"/>nerouſly, truſting the King for the per<g ref="char:EOLhyphen"/>formance of his Word: A thing which they have
+ſince often, though too late, re<g ref="char:EOLhyphen"/>pented of.</p>
+            <p>Next Morning the Nobles met in the Council-Houſe, and the other two E<g ref="char:EOLhyphen"/>ſtates in the
+<hi>Brewers-Hall;</hi> the Reſolu<g ref="char:EOLhyphen"/>tion of the Commons could not be kept ſo ſecret, but by
+this time ſome warm ru<g ref="char:EOLhyphen"/>mours of it had reached the Nobility; but ſcarce had they leiſure to
+conſider what was fitteſt to be done on that occaſion, when they were informed that the
+Com<g ref="char:EOLhyphen"/>mons were marching towards them: for the Biſhop and the Preſident had ſo well performed
+their Parts, and urged the ne<g ref="char:EOLhyphen"/>ceſſity of ſpeedily executing what had been reſolved the day
+before, that all time was judged loſt which was not employed in putting it in practice; they
+immediately agreed to go to the Council-Houſe, and there propound to the Nobility their deſign,
+deſiring their Concurrence in ſuch a neceſſa<g ref="char:EOLhyphen"/>ry Work for the welfare of the Kingdom. They
+marched through the Streets with great gravity, and ſilence, by Couples, as be<g ref="char:EOLhyphen"/>fore, whilſt the
+Mob by repeated Shouts ap<g ref="char:EOLhyphen"/>plauded what they were going to do. And thus they came to the Houſe
+where the No<g ref="char:EOLhyphen"/>bles were aſſembled, who had ſcarce warn<g ref="char:EOLhyphen"/>ing ſufficient to receive them.</p>
+            <p>The Preſident <hi>Nanſon</hi> made a ſhort Ha<g ref="char:EOLhyphen"/>rangue, ſetting forth that they had
+conſi<g ref="char:EOLhyphen"/>dered the ſtate of the Nation, and that they found the only Remedy for the many
+Diſorders which afflicted it, was to make the Crown Hereditary, and to give more power to the
+King than hitherto he had enjoyed; that this Reſolution was already taken by the Commons and
+Clergy, in which if the Nobi<g ref="char:EOLhyphen"/>lity ſhould think fitting to concur, they were ready to accompany
+them to the King, and make him a tender of an Hereditary and Sovereign Dominion; if not, that they
+were going themſelves, and the mat<g ref="char:EOLhyphen"/>ter ſhould be done without them: That a ſpeedy
+Reſolution was neceſſary, for they had already ſent word to the Court of their coming, and
+his Majeſty expected them in the Hall of his Palace; therefore deſired to be informed in few
+words what they reſolved to do.</p>
+            <p>The ſuddenneſs, of ſuch a Propoſition, and briskneſs in the manner of its delive<g ref="char:EOLhyphen"/>ry,
+cauſed a general aſtoniſhment in the Nobles; one might have ſeen thoſe who but the day
+before carried it ſo proudly, in an inſtant fall to an exceſs of Compla<g ref="char:EOLhyphen"/>cency, and betray
+their Fear by their Spee<g ref="char:EOLhyphen"/>ches and Countenances, as they formerly had done their Arrogance. The
+Miſchief no ſooner appeared to them, but they ſaw it was unavoidable; there was no leiſure
+allowed them to conſult; and to deny their compliance, or even to delay it, was dangerous. To
+give up at once their be<g ref="char:EOLhyphen"/>loved Power, and ſubmit their Necks to a heavy Yoak, was an intolerable
+Grievance: But they ſaw they were no longer the Ma<g ref="char:EOLhyphen"/>ſters; the Commons were armed, the Ar<g ref="char:EOLhyphen"/>my
+<pb n="5" facs="tcp:29658:5"/>and Clergy againſt them; and they found now too late, that that which the day
+before they had conſidered only as the Effort of an unconſtant giddy Multi<g ref="char:EOLhyphen"/>tude, was guided by
+wiſer Heads, and ſupported by Encouragements from Court, nay poſſibly by ſome of their
+own Body: They ſuſpected each other, and no Man knew whether his next Neighbour was not in the
+Plot againſt the publick Liberty. It is eaſy to imagine what diſtracted thoughts afflicted
+them on a ſudden; they were al<g ref="char:EOLhyphen"/>together unprepared for ſuch a diſmal ſtroke: But ſome
+anſwer muſt be given, and that ſpeedily. Such a one as they had a mind to give, they durſt
+not; for they were aſſembled in a fortified Town, re<g ref="char:EOLhyphen"/>mote from their ſeveral Countries and
+In<g ref="char:EOLhyphen"/>tereſts (where they had governed like ſo many Princes) in the power of thoſe who could,
+and certainly would be revenged in caſe they proved refractory. The beſt way therefore was to
+ſeem to approve of what they could not hinder. They anſwer, that the Propoſition made to them
+by the Com<g ref="char:EOLhyphen"/>mons was not diſpleaſing, but the manner of it wanted the requiſite Formalities;
+that previous deliberation was neceſſary to an Affair of ſo great moment; and they could not
+but take it ill, a Reſolution of ſuch conſequence ſhould be concluded on by the Commons
+without the leaſt acquaint<g ref="char:EOLhyphen"/>ing of the Nobility with it, who were the chief Eſtate of the Realm:
+That they alſo aſpired to the Honour of bearing their part in beſtowing ſuch a material
+Gift on the King and his Poſterity, but deſi<g ref="char:EOLhyphen"/>red that the Matter might be proceeded on with
+that gravity, and ſolemnity, which the nature of it required: That it was not fit ſuch a
+weighty Tranſaction ſhould have the appearance of a Tumult, and ſeem forced rather than a
+free Choice. The Concluſion of all was, That they hoped the Commons would a little defer the
+put<g ref="char:EOLhyphen"/>ting in execution their Deſign; and in the mean time conſult with them, till the Affair
+were done orderly, and with una<g ref="char:EOLhyphen"/>nimous Approbation, as well as to mutual Advantage.</p>
+            <p>This was with great vehemency by the Preſident denied. He replied, Theſe were Shirts only to
+gain time, that the Nobles might be in a Condition to fruſtrate the In<g ref="char:EOLhyphen"/>tention of the Commons;
+that the Point was already agreed, and the Reſolution taken; that they came not thither to
+conſider, but to act; if the Nobles would join with them, they were ready; if not, they would do
+what was to be done alone; and doubted not but his Majeſty would make his uſe of it.</p>
+            <p>During theſe Diſputes the Nobility had privily ſent ſome of their Body to Court to
+acquaint the King, that the Commons were now at their Houſe, and had made them ſudden
+Propoſals out of form, but ſuch as they ſhould rather concur with, than be averſe to; that
+they were ready to join with them in offering an Hereditary Crown to his Majeſty, and the Heirs
+Male of his Family for ever; which they hoped his Majeſty would accept in good part: But
+deſired to proceed in the uſual Me<g ref="char:EOLhyphen"/>thods, which ſuch weighty Affairs merited, <hi>viz.</hi>
+by Conference and Deliberations, that it might appear rather an effect of their juſt Sentiments
+of his Majeſty's Valour and Conduct, than the ſudden Motions of a tu<g ref="char:EOLhyphen"/>multuous Aſſembly.</p>
+            <p>The King, with a great deal of mild<g ref="char:EOLhyphen"/>neſs, as if he had been wholly unconcerned and paſſive
+in the Caſe, replied: That he was obliged to them for their Deſigns in favour of him, and the
+Royal Family; that he hoped what they were about would tend to the benefit of the Nation; but that
+a Crown intailed only on the Heirs Male could not be ſo acceptable to him, as if it were given
+without that Limitation; that the Government of Females had neither been a new thing at home, nor
+unproſpe<g ref="char:EOLhyphen"/>rous in neighbouring Countries: That
+<pb n="6" facs="tcp:29658:6"/>they might conſider of it, and ſince it was their Gift, he would not
+preſcribe, but it could not be accepted by him unleſs it were more general.</p>
+            <p>In the mean time the Commons grew impatient, the Anſwer given them was not ſatisfactory, and
+the Nobles had not yet re<g ref="char:EOLhyphen"/>ſolved on an intire compliance, nor were ready to accompany them,
+becauſe they had not yet an account of the ſucceſs of their Members ſent to ſound the
+Mind of the Court. The Clergy and Burgers there<g ref="char:EOLhyphen"/>fore, led on by their Biſhop and Preſi<g ref="char:EOLhyphen"/>dent,
+proceed without them to the Pa<g ref="char:EOLhyphen"/>lace, and were met by the prime Miniſter, and conducted by him to
+the Hall of Audi<g ref="char:EOLhyphen"/>ence, whither after ſome ſhort time the King came to them. The Biſhop makes
+a long Speech, ſetting forth the Praiſes of his Majeſty, and the cauſe of their wait<g ref="char:EOLhyphen"/>ing on
+him; concluding with an offer, in the name of themſelves, the two moſt nu<g ref="char:EOLhyphen"/>merous, and if he
+pleaſed moſt powerful Eſtates, of an Hereditary and Abſolute Do<g ref="char:EOLhyphen"/>minion; together with the
+aſſiſtance of their Hands and Purſes, in caſe any Body ſhould go about to obſtruct
+ſo neceſſary and laudable a Deſign for the good of the Country. The King told them in
+ſhort, That he thanked them; and in caſe an Uni<g ref="char:EOLhyphen"/>verſal Conſent eſtabliſhed this good
+Deſire of theirs, he would accept the Preſent they made him; but that the Concurrence of the
+Nobles was neceſſary; which he doubted not of in the leaſt, when they had time to make the
+offer with the neceſſary For<g ref="char:EOLhyphen"/>malities: That he aſſured the Commons of his Royal Protection,
+and ſhould not be un<g ref="char:EOLhyphen"/>mindful of their kindneſs, by eaſing them of their Grievances, and by
+encouraging Sub<g ref="char:EOLhyphen"/>jects who had behaved themſelves ſo va<g ref="char:EOLhyphen"/>liantly, and deſerved ſo well from
+him: Concluding with his advice to them to con<g ref="char:EOLhyphen"/>tinue their Seſſion till ſuch time as Mat<g ref="char:EOLhyphen"/>ters
+were brought to perfection, and he could receive their gift with the Solemnity that was fitting.
+And thereupon diſmiſſed them.</p>
+            <p>But the Nobles were all this while in a grievous diſtraction; they ſaw the Com<g ref="char:EOLhyphen"/>mons were
+gone to the King without them: Their Meſſengers brought News back that their Propoſition of
+entailing the Crown on the Heirs Male, was not pleaſing, be<g ref="char:EOLhyphen"/>cauſe a greater Advantage was in
+pro<g ref="char:EOLhyphen"/>ſpect; that this offer was looked upon to proceed from Perſons that would not have
+beſtowed any thing, if they could have helped it: That it was thought they pre<g ref="char:EOLhyphen"/>tended to merit in
+giving only a part, when it was not in their power to hinder the taking the whole. In this
+irreſolution they broke up; and ſince they were to meet again at noon upon another ſo<g ref="char:EOLhyphen"/>lemn
+Occaſion, they reſolved at that time to conſider how to proceed in an Affair ſo
+delicate.</p>
+            <p>Monſieur <hi>Schele</hi> a Senator, and princi<g ref="char:EOLhyphen"/>pal Man of the Country, was that After<g ref="char:EOLhyphen"/>noon to
+be buried in great Pomp; his Body had lain ſome Months in State, and according to the Cuſtom,
+was to be accompanied to its Interment by all the Nobility then in Town; this being a Par<g ref="char:EOLhyphen"/>liament
+time, was choſen for the Ceremo<g ref="char:EOLhyphen"/>ny, becauſe the Nobles were all together, and a magnificent
+Dinner was prepared, as is uſual on the like occaſions. In the height of their Entertainment an
+Officer comes into the room, and whiſpers ſome of the principal men that the City Gates were
+ſhut, and the Keys carried to Court: For the King having been in<g ref="char:EOLhyphen"/>formed by the Governour, that
+two or three had privily ſlipt out of Town the Night before, and being reſolved that no more
+ſhould eſcape out of the Net, till he had done his buſineſs, had order<g ref="char:EOLhyphen"/>ed the Governour
+that Morning to lock the Gates, and to let no Perſon in or out without ſpecial Order. The
+Go<g ref="char:EOLhyphen"/>vernour ſent one <hi>Bill,</hi> the Town Major, to put this in Execution; who as ſoon as he
+had done it, came to the Houſe where they were met, and ſat down at Table among the Senators.
+This diſ<g ref="char:EOLhyphen"/>mal
+<pb n="7" facs="tcp:29658:7"/>News of the Officer was preſently whiſpered round the <hi>Company;</hi> who
+im<g ref="char:EOLhyphen"/>mediately applied themſelves to him to know what the meaning was of ſuch an unuſual
+Proceeding at the time of a General Convention. They asked him what deſtiny was appointed them,
+whe<g ref="char:EOLhyphen"/>ther they were there to be Maſſacred, or what elſe was to be done with them? The
+Town-Major calmly anſwered, That he believed there was no Danger towards them; that ſuch
+violent Meaſures would not be taken by ſo gracious a King, tho he had indeed given the Orders
+himſelf for the ſhutting of the Gates; and that no Body was to ſtir put of Town without
+leave; but that this needed not diſturb or hinder them from finiſhing the Work of the Day, and
+purſuing the Pub<g ref="char:EOLhyphen"/>lick, as well as their Private Occaſions. There wanted no more than this
+Confir<g ref="char:EOLhyphen"/>mation from the Officer to overthrow all the Reſolutions, and Confutations of the Nobles;
+the dread of loſing their Lives took away all thoughts of their Liberty. They immediately
+diſpatched Meſſengers both to the Court, and the Commons, to give notice of their
+diſpoſition to com<g ref="char:EOLhyphen"/>ply with what was formerly propoſed; aſſuring them likewiſe, that
+they were ready to agree to all that ſhould be asked of them.</p>
+            <p>But the King, who had began and played his Game ſo well hitherto, deter<g ref="char:EOLhyphen"/>mined to purſue it
+to the utmoſt, and would not ſuffer the Gates to be opened, till the whole Ceremony of the
+Inaugu<g ref="char:EOLhyphen"/>ration was concluded, and the Homage done in due form; and therefore ordered they ſhould
+ſtay, till in the Face of the People, and the Army, they had ſworn Fealty, and deveſted
+themſelves of all Right, as well as Power, to cauſe any Diſturbance, or Alteration for the
+future.</p>
+            <p>Three days time was requiſite to pre<g ref="char:EOLhyphen"/>pare Matters for that fatal hour, where<g ref="char:EOLhyphen"/>in they were to
+make a formal Surrender of their Liberty; the Scaffolds were rai<g ref="char:EOLhyphen"/>ſed in the place before the
+Caſtle, and adorned with Tapeſtry; Orders were given for the Soldiery, and Burgers to ap<g ref="char:EOLhyphen"/>pear
+in Arms under their reſpective Offi<g ref="char:EOLhyphen"/>cers. And when all things were ready, on the 27th of
+<hi>October</hi> in the Morning, the King, Queen, and Royal Family mounted on a Theatre erected for
+that purpoſe; and being placed in Chairs of State under Canopies of Velvet, received pub<g ref="char:EOLhyphen"/>lickly
+the Homage of all the Senators, Nobility, Clergy, and Commons; which was performed kneeling. The
+Oath, which they were obliged to take, was in theſe words:</p>
+            <p>I A. B. <hi>do Promiſe, and Declare, that I will be True, and Faith<g ref="char:EOLhyphen"/>ful to your Majesty, as my
+most Gracious King and Lord, as alſo to Your Royal Family; that I will En<g ref="char:EOLhyphen"/>deavour, and promote
+Your Majeſ<g ref="char:EOLhyphen"/>ties Interest in all things, and to the beſt of my Power defend you from all Danger,
+and Harm; and that I will faithfully ſerve Your Majesty as a Man of Honour, and an Heredi<g ref="char:EOLhyphen"/>tary
+Subject ought to do. So help me God,</hi>&amp;c.</p>
+            <p>This Oath they were all obliged to pro<g ref="char:EOLhyphen"/>nounce aloud; and ſome Men of Quality that were ſick,
+or pretended to be ſo, were brought in Chairs: Among others one <hi>Gerſdorf,</hi> a principal
+Senator, who was the only man that opened his Mouth in the behalf of their Expiring Liberties,
+ſaying, That he hoped and truſted, that his Majeſty deſigned nothing but the Good of his
+People, and not to govern them after the <hi>Turkiſh</hi> manner; but wiſh<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:29658:8" rendition="simple:additions"/>his Majeſties Succeſſors might follow the Example which his
+Majeſty would undoubtedly ſet them, and make uſe of that unlimited Power for the good, and
+not the harm of his Subjects. Not one of the reſt ſpoke a word, or ſeemed to murmur in the
+leaſt at what was done; and it is obſervable, that among ſo many Great Men, who a few days
+before ſeemed to have Spirits ſuitable to their Birth and Qualities, none had the Courage
+during thoſe three laſt days, either by Remon<g ref="char:EOLhyphen"/>ſtrance, or any other way, to oppoſe in any
+manner what was doing. And I have heard very intelligent Perſons, who were at that time near the
+King, affirm, That had the Nobles ſhewed ever ſo little Cou<g ref="char:EOLhyphen"/>rage in aſſerting their
+Privileges, the King would not have purſued his Point ſo far as to deſire an Arbitrary
+Dominion: For he was in continual doubt, and dread of the Event, and began to waver very much in
+his Reſolutions; ſo that their Liberties ſeem purely loſt for want of ſome to appear for
+them.</p>
+            <p>From the Theatre, thoſe that had done Homage, went to the Council-Houſe, where the Nobles
+were called over by Name, and ordered to ſubſcribe the a<g ref="char:EOLhyphen"/>bove-mentioned Declaration, which they
+all did.</p>
+            <p>Thus this great Affair was finiſhed, and the Kingdom of <hi>Denmark</hi> in Four Days time
+changed from an Eſtate little differing from Ariſtocracy, to as abſolute a Monarchy as any is
+at preſent in the World. The Commons have ſince ex<g ref="char:EOLhyphen"/>perienced, that the little Finger of an
+Abſolute Prince can be heavier than the Loins of many Nobles. The only com<g ref="char:EOLhyphen"/>fort they have left
+them being to ſee their former Oppreſſors in almoſt as miſerable a Condition as
+themſelves; whilſt all the Citizens of <hi>Copenhagen</hi> have by it obtained the
+inſignificant Privilege of wearing Swords: So that at this day not a Cobler, or Barber ſtirs
+abroad without a Tilter at his ſide, let his Purſe be never ſo emp<g ref="char:EOLhyphen"/>ty. The Clergy, who always
+make ſure Bargains, were the only Gainers in this Point; and are ſtill much encouraged by the
+Court, as the Inſtruments that firſt promoted, and now keep the People in a due Temper of
+Slavery; the Paſſive-O<g ref="char:EOLhyphen"/>bedience Principle riding Triumphant in this unhappy Kingdom.</p>
+            <p>It was but Juſtice, that the Court ſhould pay well the principal Contrivers of this great
+Revolution: and therefore not<g ref="char:EOLhyphen"/>withſtanding the general want of Money, <hi>Hannibal
+Seeſtede</hi> had a Preſent of 200000 Crowns. <hi>Swan</hi> the Superintendent, or Biſhop,
+was made Archbiſhop, and had 30000 Crowns. The Preſident or Speaker <hi>Nanſon,</hi> 20000
+Crowns. And to the People remained the Glory of having forged their own Chains, and the Ad<g ref="char:EOLhyphen"/>vantage
+of Obeying without reſerve. A happineſs which I ſuppoſe no <hi>Engliſh</hi> Man will ever
+envy them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwicklane,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
